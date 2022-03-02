@@ -3,3 +3,4 @@
 /.idea/
 /.dbdata/
 /admin/db.sqlite3
+/admin/.idea
